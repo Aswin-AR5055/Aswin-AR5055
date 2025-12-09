@@ -42,7 +42,6 @@ Passionate about building scalable systems, automating workflows, and contributi
 - **[MiniGDrive](https://github.com/Aswin-AR5055/MiniGDrive)** – Cloud-based file storage system with Flask & AWS EC2, automated with Docker & GitHub Actions.  
 - **[ERDiagramGenerator](https://github.com/Aswin-AR5055/ERDiagramGenerator)** – Django-based database ER diagram generator, containerized with Docker.  
 - **[TemplateEditor](https://github.com/Aswin-AR5055/TemplateEditor)** – Web-based template customizer with Django + JavaScript, CI/CD integrated.  
-- **[NetflixClone (WIP)](https://github.com/Aswin-AR5055/netflixclone)** – Media streaming platform using Django + React, with Docker & GitHub Actions.  
 
 ---
 
